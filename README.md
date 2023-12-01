@@ -1,5 +1,8 @@
-# Projet consistant à la création d'un repo github open source
+# ls.py, a program that lists the content of the directory you're in
 ![GitHub Repo stars](https://img.shields.io/github/stars/missyaria/test)
+
+This is an irrelevant program that justs lists the content of the directory you're in and prints the path. 
+The goal is to practice the notion of Open-Source projects.
 
 # Installation
 
