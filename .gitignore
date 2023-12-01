@@ -1,6 +1,7 @@
 **/*.out            
 ./build/debug/*     
-node_modules        
+node_modules
+./.idea/*
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
