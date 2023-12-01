@@ -1,0 +1,5 @@
+requests
+beautifulsoup4
+regex
+python-csv
+pyinstaller>=4.3
