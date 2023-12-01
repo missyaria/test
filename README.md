@@ -16,3 +16,6 @@ Go to the path where the file is located, then run the following command :
 ```bash
 pyinstaller --onefile ls.py
 ``` 
+# Contributing
+
+Check the [official GitHub documentation](https://docs.github.com/en/get-started/quickstart/contributing-to-projects) on how to contribute to projects !
