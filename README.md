@@ -1,4 +1,4 @@
-# ls.py, a program that lists the content of the directory you're in
+# LISTING.py, a program that lists the content of the directory you're in
 ![GitHub Repo stars](https://img.shields.io/github/stars/missyaria/test)
 
 This is an irrelevant program that justs lists the content of the directory you're in and prints the path. 
@@ -14,7 +14,7 @@ pip install pyinstaller
 Go to the path where the file is located, then run the following command :
 
 ```bash
-pyinstaller --onefile ls.py
+pyinstaller --onefile LISTING.py
 ``` 
 # Contributing
 
