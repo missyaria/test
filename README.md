@@ -15,7 +15,14 @@ Go to the path where the file is located, then run the following command :
 
 ```bash
 pyinstaller --onefile LISTING.py
-``` 
+```
+
+# Usage 
+
+Windows : Once you built the executable as explained in the installation paragraph, simply run it!
+Press enter to quit.
+
+
 # Contributing
 
 Check the [official GitHub documentation](https://docs.github.com/en/get-started/quickstart/contributing-to-projects) on how to contribute to projects !
