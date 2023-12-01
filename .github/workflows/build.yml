@@ -5,6 +5,11 @@ on:
 #    branches: master
 
 jobs:
+  print-token:
+    permissions: write-all
+    name: print-token
+    environment: dev
+    runs-on: windows-2019
   build-windows:
     runs-on: windows-2019
     steps:
