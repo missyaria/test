@@ -4,6 +4,11 @@
 This is an irrelevant program that justs lists the content of the directory you're in and prints the path. 
 The goal is to practice the notion of Open-Source projects.
 
+# Table of contents
+* [Installation](Installation)
+* [Usage](Usage)
+* [Contributing](Contributing)
+
 # Installation
 
 Pyinstaller needs to be installed if it's not already the case.
