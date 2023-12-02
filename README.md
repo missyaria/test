@@ -5,9 +5,9 @@ This is an irrelevant program that justs lists the content of the directory you'
 The goal is to practice the notion of Open-Source projects.
 
 # Table of contents
-* [Installation](Installation)
-* [Usage](Usage)
-* [Contributing](Contributing)
+* [Installation](#Installation)
+* [Usage](#Usage)
+* [Contributing](#Contributing)
 
 # Installation
 
