@@ -1,7 +1,7 @@
 # LISTING.py, a program that lists the content of the directory you're in
 ![GitHub Repo stars](https://img.shields.io/github/stars/missyaria/test)
 
-This is an irrelevant program that justs lists the content of the directory you're in and prints the path. 
+This is an irrelevant program that just lists the content of the directory you're in and prints the path. 
 The goal is to practice the notion of Open-Source projects.
 
 # Table of contents
